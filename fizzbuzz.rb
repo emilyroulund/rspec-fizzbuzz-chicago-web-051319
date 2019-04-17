@@ -6,6 +6,7 @@ def fizzbuzz(number)
   return "Fizz"
  if number/5 == integer 
   return "Buzz"
+if number/5 == integer 
   return "FizzBuzz"
 end 
 end 
