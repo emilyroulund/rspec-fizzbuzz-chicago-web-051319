@@ -2,9 +2,10 @@
 # See README.md for instructions on how to do this
 
 def fizzbuzz(number)
- if 
+ if number/3== integer 
   return "Fizz"
+ if number/5 == integer 
   return "Buzz"
   return "FizzBuzz"
-end
+end 
 end 
